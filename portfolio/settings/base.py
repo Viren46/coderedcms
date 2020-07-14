@@ -120,8 +120,7 @@ DATABASES = {
         'NAME': 'portfolio',
         'USER': 'postgres',
         'PASSWORD': 'admin',
-        'HOST': 'localhost',
-        'PORT': '',
+    
     }
 }
 # Password validation
