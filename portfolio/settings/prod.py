@@ -18,7 +18,7 @@ DEBUG = False
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = env['SECRET_KEY']
 
-# Allow all host header
+# Allow all host headers
 ALLOWED_HOSTS = ['*']
 
 # To send email from the server, we recommend django_sendmail_backend
